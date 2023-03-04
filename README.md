@@ -22,7 +22,7 @@ pip install boto3 azure-mgmt-compute azure-mgmt-network azure-mgmt-resource
 ```
     export AZURE_SUBSCRIPTION_ID=<your_subscription_id>
 ```
-    Replace <your_subscription_id> with your actual subscription ID.
+> Replace <your_subscription_id> with your actual subscription ID.
 
 ## Usage
 
