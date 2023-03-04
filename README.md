@@ -43,4 +43,3 @@ The modified key will contain a nested dictionary with the state key representin
 Contributing
 
 Contributions are welcome! Please open an issue or pull request for any bugs or feature requests.
-License
